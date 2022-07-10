@@ -1,2 +1,2 @@
 # My-state-webpage
-<img src=" example.png ">
+<img src="example.png">
